@@ -1,6 +1,13 @@
 # Handy NPM
 A list of handy NPM packages
 
+## Animations
+
+### Animate.CSS
+> Just-add-water CSS animations
+- [Github](https://github.com/animate-css/animate.css)
+- [NPM](https://www.npmjs.com/package/animate.css)
+
 ## Utilities
 
 ### Fill Range
