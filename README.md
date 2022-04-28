@@ -1,6 +1,12 @@
 # Handy NPM
 A list of handy NPM packages
 
+## Contents
+- [Animations](#animations)
+- [Data](#data)
+- [Server Utilities](#server-utilities)
+- [Task Scheduling](#task-scheduling)
+
 ## Animations
 
 A collection of packages for creating animations using CSS and/or JS.
