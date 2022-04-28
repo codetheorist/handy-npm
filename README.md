@@ -1,5 +1,8 @@
 # Handy NPM
-A list of handy NPM packages
+
+A list of handy NPM packages for various use cases, such as animation, data manipulation, task scheduling and more.
+
+If you know any handy NPM packages that should be on the list, please feel free to [open an issue](https://github.com/codetheorist/handy-npm/issues/new/choose) or [submit a PR](https://github.com/codetheorist/handy-npm/pulls) to get it added to the list.
 
 ## Contents
 - [Animations](#animations)
